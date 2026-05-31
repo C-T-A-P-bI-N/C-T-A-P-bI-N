@@ -14,5 +14,9 @@
   </tr>
 </table>
 
-## 🛠Навыки и инструменты:
+## 🛠 Навыки и инструменты:
 
+## ✉️ Контакты
+- Email: <a href="mailto:v.l.d.n@yandex.ru">v.l.d.n@yandex.ru</a>
+- Telegram: <a href="https://t.me/Digital_nomad_SA">@Digital_nomad_SA</a>
+- Моё резюме на <a href="https://career.habr.com/ctapbin">Habr Карьера</a>
