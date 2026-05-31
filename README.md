@@ -16,7 +16,8 @@
 </table>
 
 ## 🛠 Навыки и инструменты:
-```ПО: Confluence, Jira, Miro, draw.io, Figma, OpenAPI
+```
+ПО: Confluence, Jira, Miro, draw.io, Figma, OpenAPI
 ```
 ### Технологии:
 - YAML;
