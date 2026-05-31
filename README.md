@@ -9,7 +9,7 @@
     <th>Дата</th>
   </tr>
   <tr>
-    <td style="background-color: #f0f0f0;">https://practicum.yandex.ru/systems-analyst</td>
+    <td style="background-color: #f0f0f0;"><a href="https://practicum.yandex.ru/systems-analyst/">Яндекс.Практикум - Системный аналитик</td>
     <td>31.05.2026 - 31.05.2026</td>
   </tr>
 </table>
