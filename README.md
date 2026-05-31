@@ -1,4 +1,4 @@
-# Привет <img width="66" height="59" alt="image" src="https://github.com/user-attachments/assets/e6063c6a-e7c0-4713-b93f-4320c3723bbf" /> меня зовут Влад!
+# Привет меня зовут Володин Владислав!
 ## 👨‍💻Системный аналитик
 ## О себе:
 - 
