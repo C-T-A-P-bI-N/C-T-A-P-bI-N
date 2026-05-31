@@ -15,3 +15,4 @@
 </table>
 
 ## 🛠Навыки и инструменты:
+![Uploading f9aadf5b6f3e4c776ebb790c492038a1.png…]()
