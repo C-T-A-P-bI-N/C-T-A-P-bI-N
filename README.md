@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**C-T-A-P-bI-N/C-T-A-P-bI-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет👋меня зовут Влад!
+## 👨‍💻Системный аналитик
+## О себе:
+- 
+- Интересуюсь миром Data Science
+<table>
+  <tr>
+    <th>Курсы</th>
+    <th>Дата</th>
+  </tr>
+  <tr>
+    <td style="background-color: #f0f0f0;">https://practicum.yandex.ru/systems-analyst</td>
+    <td>31.05.2026 - 31.05.2026</td>
+  </tr>
+</table>
